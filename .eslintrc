@@ -1,0 +1,10 @@
+{
+  "extends": ["react-app", "react-app/jest"],
+  "rules": {
+    "react/jsx-pascal-case": 0,
+    "testing-library/no-container": 0,
+    "testing-library/no-node-access": 0,
+    "no-unused-vars": 0,
+    "eqeqeq": 0
+  }
+}
